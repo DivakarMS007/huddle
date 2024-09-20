@@ -1,7 +1,7 @@
 import Content1 from '../Components/Content1'
 import Im3 from '../images/Together.png'
 import Im4 from '../images/User.png'
-import Im5 from '../images/conversation.png'
+import Im5 from '../images/Conversation.png'
 
 export default function SecondPage() {
   return (
