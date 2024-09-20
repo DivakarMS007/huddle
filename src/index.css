@@ -1,0 +1,20 @@
+body{
+    padding: 32px 0px;
+    padding-right: 32px;
+    padding-left: 52px;
+    background-image: url('..//src/images/HEROBG.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 93%;
+    height: 100vh;
+}
+
+*{
+    font-family: 'Segoe UI','Arial';
+}
+
+li{
+    color: white;
+   list-style-type: none;
+}
+
